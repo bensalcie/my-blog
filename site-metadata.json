@@ -1,0 +1,69 @@
+{
+    "description": "Medium inspired blogging theme for Stackbit",
+    "layout_style": "grid",
+    "palette": "green",
+    "header": {
+        "title": "Benard Ngoda",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "type": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "type": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "type": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "type": "link"
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "label": "Made by Ben Salcie",
+                "url": "https://www.bensalcie.netlify.app",
+                "type": "link",
+                "new_window": true
+            },
+            {
+                "label": "Follow me on hashnode",
+                "url": "https://dev.to/bensalcie",
+                "new_window": true,
+                "type": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/bensalcie",
+                "type": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/bensalcie",
+                "type": "icon",
+                "icon_class": "fa-dev",
+                "new_window": true
+            }
+        ],
+        "has_subscribe": true,
+        "subscribe_title": "Subscribe for new updates",
+        "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month."
+    },
+    "title": "Ben Salcie"
+}
